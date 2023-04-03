@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streaming platforma2", "Vjezbe 5\Streaming platforma2.csproj", "{E06028F5-D9AD-4DBC-8F00-F8EB2C991A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kino 1", "Kino 1\Kino 1.csproj", "{6CF9FD3C-3569-424C-B2DB-3E38C0876984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kino 2", "Kino 2\Kino 2.csproj", "{81CC9F0A-6948-42F3-982D-3720835EE2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06028F5-D9AD-4DBC-8F00-F8EB2C991A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06028F5-D9AD-4DBC-8F00-F8EB2C991A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06028F5-D9AD-4DBC-8F00-F8EB2C991A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06028F5-D9AD-4DBC-8F00-F8EB2C991A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF9FD3C-3569-424C-B2DB-3E38C0876984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF9FD3C-3569-424C-B2DB-3E38C0876984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF9FD3C-3569-424C-B2DB-3E38C0876984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF9FD3C-3569-424C-B2DB-3E38C0876984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D082B13-F67E-42CE-8B0C-8F9AB015CF56}
+	EndGlobalSection
+EndGlobal
