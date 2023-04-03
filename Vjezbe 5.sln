@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kino 1", "Kino 1\Kino 1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kino 2", "Kino 2\Kino 2.csproj", "{81CC9F0A-6948-42F3-982D-3720835EE2AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agencija za nekretnine", "Agencija za nekretnine\Agencija za nekretnine.csproj", "{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81CC9F0A-6948-42F3-982D-3720835EE2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
