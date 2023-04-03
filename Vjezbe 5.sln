@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kino 2", "Kino 2\Kino 2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agencija za nekretnine", "Agencija za nekretnine\Agencija za nekretnine.csproj", "{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pricuva", "Pricuva\Pricuva.csproj", "{5363C7F5-2B1D-4373-A89F-7B544D631362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burza", "Burza\Burza.csproj", "{112E3CAC-CCFB-496B-80BA-E98A3B4FF5E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA2D2DEF-B000-437A-ADF2-8B60C056E64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5363C7F5-2B1D-4373-A89F-7B544D631362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5363C7F5-2B1D-4373-A89F-7B544D631362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5363C7F5-2B1D-4373-A89F-7B544D631362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5363C7F5-2B1D-4373-A89F-7B544D631362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112E3CAC-CCFB-496B-80BA-E98A3B4FF5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112E3CAC-CCFB-496B-80BA-E98A3B4FF5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112E3CAC-CCFB-496B-80BA-E98A3B4FF5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112E3CAC-CCFB-496B-80BA-E98A3B4FF5E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
