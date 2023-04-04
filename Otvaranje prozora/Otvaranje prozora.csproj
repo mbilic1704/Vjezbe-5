@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FC40DAC-3424-4D0B-85D6-81BC959A728E}</ProjectGuid>
+    <ProjectGuid>{E45A399A-AD24-48B6-A6B1-682B605546A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Gradjevina</RootNamespace>
-    <AssemblyName>Gradjevina</AssemblyName>
+    <RootNamespace>Otvaranje_prozora</RootNamespace>
+    <AssemblyName>Otvaranje prozora</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,12 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Gradjevina.cs" />
-    <Compile Include="IProstor.cs" />
+    <Compile Include="ElektronickiUpravljac.cs" />
+    <Compile Include="IOtvor.cs" />
+    <Compile Include="Otvor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Prostor.cs" />
-    <Compile Include="UnutarnjiProstor.cs" />
-    <Compile Include="VanjskiProstor.cs" />
+    <Compile Include="Prozor.cs" />
+    <Compile Include="StatusOtvora.cs" />
+    <Compile Include="Vrata.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
