@@ -16,7 +16,7 @@ namespace _17_PmaetnaKuca_MjerniUredaji
         {
             Name = name;
             Unit = unit;
-            rawData = Data.ToString();
+           
 
             PopulateDailyData(rawData);
         }
