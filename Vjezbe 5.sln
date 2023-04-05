@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_PametnaKuca_MjerniUredaj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_mjerniUredaji", "18_mjerniUredaji\18_mjerniUredaji.csproj", "{B929A8D1-1ED4-4497-8293-6A8CF75A0FE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Sensor", "19_Sensor\19_Sensor.csproj", "{D484919F-C1BE-44CF-B621-290AD942EE45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B929A8D1-1ED4-4497-8293-6A8CF75A0FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B929A8D1-1ED4-4497-8293-6A8CF75A0FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B929A8D1-1ED4-4497-8293-6A8CF75A0FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D484919F-C1BE-44CF-B621-290AD942EE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D484919F-C1BE-44CF-B621-290AD942EE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D484919F-C1BE-44CF-B621-290AD942EE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D484919F-C1BE-44CF-B621-290AD942EE45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
