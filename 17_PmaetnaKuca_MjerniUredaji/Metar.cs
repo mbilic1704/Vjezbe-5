@@ -16,8 +16,6 @@ namespace _17_PmaetnaKuca_MjerniUredaji
         {
             Name = name;
             Unit = unit;
-           
-
             PopulateDailyData(rawData);
         }
 
