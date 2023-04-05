@@ -20,12 +20,14 @@ namespace _19_Sensor
 
         public string ReportSensorData()
         {
+            string returnMe = "";
+
             foreach(Sensor s in  DeployedSensor)
             {
-                return "Current value for sensor" + s.Identifier + " is" + s.GetCurrentValue() + s.Unit + "\n ";
+               returnMe += "Current value for sensor" + s.Identifier + " is" + s.GetCurrentValue() + s.Unit + "\n ";
             }
 
-            return null;
+            return returnMe;
         }
     }
 }

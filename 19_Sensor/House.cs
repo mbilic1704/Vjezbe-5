@@ -17,12 +17,14 @@ namespace _19_Sensor
 
         public string ReportSensorData()
         {
+            string returnMe = "";
+
             foreach (Room r in Rooms)
             {
-                return r.ReportSensorData() + "-----------" + "\n";
+                returnMe+= r.ReportSensorData() + "-----------" + "\n";
             }
 
-            return null;
+            return returnMe;
         }
     }
 }
